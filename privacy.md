@@ -55,6 +55,10 @@ The personal information that we collect depends on the context of your interact
 
 Personal Information Provided by You. We collect names; phone numbers; email addresses; mailing addresses; debit/credit card numbers; and other similar information.
 
+While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
+Pictures and other information from your Device's camera and photo library
+We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
+You can enable or disable access to this information at any time, through Your Device settings.
 
 Payment Data. We may collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument. All payment data is stored by Razorpay. You may find their privacy notice link(s) here: __________.
 
